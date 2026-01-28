@@ -42,3 +42,9 @@ print(type(['Asabeneh', 'Python', 'Finland']))
 print(type('Javi'))
 print(type('Family Name'))
 print(type('Mexico'))
+
+
+#Find the Euclidean distance between (2,3) y (10,8)
+print(((10-2)**2+(8-3)**2)**0.5)
+
+#respuesta 9.43 unidades esta correcto
