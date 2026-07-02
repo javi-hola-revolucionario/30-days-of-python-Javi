@@ -29,4 +29,12 @@ print('I hate fruits: ', fruits)
 lst =['Javier',29, True, {'pais': 'Mexico', 'cuidad': 'Monterrey'}]
 print(lst)
 
+print(len(lst))
 # We can access a list through its index. We can also use the negative for starting from the end.
+
+print(fruits[0], fruits[len(fruits)//2], fruits[-1]) 
+
+ages = [19, 22, 19, 24, 20, 25, 26, 24, 25, 24]
+
+sort_ages = sorted(ages)
+print(sort_ages)
